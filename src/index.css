@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Monospace:wght@200;300;400;500;600;700;800&display=swap");
+
+:root {
+    --font-family-primary: "Monospace", monospace;
+    --font-family-secondary: "Monospace", sans-serif;
+
+    --gradient-text-achievements: linear-gradient(89.97deg, #0e30ca 1.84%, #17e2c0 21.6%);
+    --gradient-text: linear-gradient(89.97deg, #0e30ca 1.84%, #17e2c0 75.67%);
+    --gradient-text-projects: linear-gradient(89.97deg, #0e30ca 1.84%, #17e2c0 10.8%);
+    --gradient-bar: linear-gradient(103.22deg, #0e30ca -13.86%, #17e2c0 99.55%);
+    
+    --color-bg: #040C18;
+    --color-footer : #031B34;
+    --color-blog: #042c54;
+    --color-text: #81AFDD;
+    --color-subtext: #FF8A71;
+    --color-tritext: #718d99;
+}

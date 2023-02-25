@@ -1,0 +1,32 @@
+.portfolio__achievements {
+    display: flex;
+    flex-direction: column;
+}
+
+.portfolio__features-heading {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+
+    text-align: left;
+    margin-right: 5rem;
+}
+
+
+.portfolio__achievements-heading h1 {
+    font-family: var(--font-family-primary);
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 45px;
+    padding-bottom: 2rem;
+    color: #DDDDDD
+}
+
+.portfolio__achievements-container {
+    display: grid;
+    grid-template-columns: repeat(4, 0fr);
+    grid-gap: 1rem;
+}
