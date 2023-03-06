@@ -3,7 +3,7 @@ import Thing from "./Thing";
 import Navbar from "./Navbar";
 import About from "./About";
 import Testing from "./Testing";
-import Contact from "./Contact";
+import Conclusion from "./Conclusion";
 import CanvasLoader from "./Loader";
 
 
@@ -12,7 +12,7 @@ export {
   Navbar,
   About,
   Testing,
-  Contact,
+  Conclusion,
   CanvasLoader,
   EarthCanvas, 
   PrototypeCanvas, 
