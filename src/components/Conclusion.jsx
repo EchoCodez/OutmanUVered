@@ -19,11 +19,11 @@ const Conclusion = () => {
 			<h3 className={styles.sectionHeadText}>Conclusion</h3>
 			<p className={styles.sectionSubText}>
 				The data we gathered from the poll testing, along with the growing rates of RwD accidents, 
-				leads us to believe that our conclusion will be effective if put into use. Our project will 
+				leads us to believe that our solution will be effective if put into use. Our project will 
 				allow drivers to see in the dark and help ease the amount of RwD accidents. By putting 
-				conclusion on utility poles and trees while also making sure our conclusion works in the forest, 
-				we have created a headlight that could illuminate this conclusion and save many lives. Asad Kaleem, 
-				along with countless others, have died because of RwD accidents. Our conclusion will hopefully 
+				lichen on utility poles and trees while also making sure our solution works in the forest, 
+				we have created a headlight that could illuminate this lichen and save many lives. Asad Kaleem, 
+				along with countless others, have died because of RwD accidents. Our solution will hopefully 
 				put an end to these accidents, and bring comfort to our community, avenging Asad's death. 
 				Today, we continue to hope for peace for our community and Asad. May you rest in peace.
 			</p>
